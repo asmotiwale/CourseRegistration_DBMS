@@ -1,13 +1,3 @@
-Team Members-
-
-Names				Unity id
-Anuraag Motiwale		asmotiwa
-Abhishek Singh			aksingh5
-Parag Nakhwa			psnakhwa
-Shriyansh Yadav			scyadav
-
-
-
 Instructions to run the application:
 1. First, execute the sql_queries.sql file to create tables, triggers and procedures.
 2. Execute the insert_sample_data.sql file to insert sample data in the database.
